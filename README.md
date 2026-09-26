@@ -9,5 +9,5 @@
    git lfs pull
    python3 -m venv .venv
    .venv\Scripts\activate.bat
-   pip install -r code\business_entity_resolution\requirements.txt
+   python -m pip install -r .\Amazon_ML\code\business_entity_resolution\requirements.txt
    ```
